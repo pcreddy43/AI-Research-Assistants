@@ -1,0 +1,47 @@
+python-dotenv
+python-multipart
+tavily-python
+fastapi
+uvicorn
+pypdf
+unstructured
+faiss-cpu
+prometheus_client
+
+pydantic
+pydantic-settings
+httpx
+beautifulsoup4
+
+#langgraph + tools
+langgraph
+langgraph-supervisor
+langgraph-swarm
+langchain-mcp-adapters
+langmem
+agentevals
+
+
+#platforms
+langsmith
+
+# LangChain + tools
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-openai
+arxiv
+
+# RAG (Chroma as local vector DB)
+tiktoken
+chromadb
+
+# PDF parsing (choose one or both)
+pymupdf
+pdfplumber
+
+# Optional LLM providers (uncomment the one you use)
+openai
+# groq
+# ollama
